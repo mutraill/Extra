@@ -1,3 +1,5 @@
+// Script to add branch to an existing root file 
+
 #include <TLegend.h>
 #include <TLatex.h>
 #include <TTree.h>
